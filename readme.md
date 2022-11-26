@@ -1,3 +1,5 @@
-#Git and Github Course
+Пример вёрстки
 
-Crash cours for Git
+Моё резюмe
+Можно посмотреть тут:
+https://sergi-i.github.io/CV_css/
